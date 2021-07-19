@@ -1,5 +1,5 @@
 package com.first.myfirstproject;
 
 public class donggeon {
-//dong
+//동건 
 }
