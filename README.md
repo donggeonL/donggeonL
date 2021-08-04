@@ -7,7 +7,7 @@
 <span target="_blank"><img src="https://img.shields.io/badge/DASP-E34F26?style=flat-square&logo=dasp&logoColor=white"/></span>
 <a target="_blank"><img src="https://img.shields.io/badge/정보처리기사-E34F26?style=flat-square&logo=&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/SQLD 2급-E34F26?style=flat-square&logo=&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/SQLD-E34F26?style=flat-square&logo=&logoColor=white"/></a>
 
 <br/><br/>
 
