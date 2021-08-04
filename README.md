@@ -13,9 +13,9 @@
 <br/><br/><br/>
 ## Learning... 🌱
 <span target="_blank"><img src="https://img.shields.io/badge/Spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/></span>
-<a target="_blank"><img src="https://img.shields.io/badge/Kubernetis-339933?style=flat-square&logo=k8s&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Linux-339933?style=flat-square&logo=linux&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/React-339933?style=flat-square&logo=react&logoColor=white"/></a>
+<p target="_blank"><img src="https://img.shields.io/badge/Kubernetis-339933?style=flat-square&logo=k8s&logoColor=white"/></p>
+<p target="_blank"><img src="https://img.shields.io/badge/Linux-339933?style=flat-square&logo=linux&logoColor=white"/></p>
+<p target="_blank"><img src="https://img.shields.io/badge/React-339933?style=flat-square&logo=react&logoColor=white"/></p>
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-339933?style=flat-square&logo=docker&logoColor=white"/></a>
 
 
