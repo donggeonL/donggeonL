@@ -21,5 +21,5 @@
 
 <br/><br/><br/>
 ## About me 💞️
-<a href="https://www.instagram.com/do.r.dong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100004021822010" target="_blank"><img src="https://img.shields.io/badge/Facebook-E4405F?style=flat-square&logo=facebook&logoColor=white"/></a>
+<p href="https://www.instagram.com/do.r.dong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></p>
+<p href="https://www.facebook.com/profile.php?id=100004021822010" target="_blank"><img src="https://img.shields.io/badge/Facebook-E4405F?style=flat-square&logo=facebook&logoColor=white"/></p>
