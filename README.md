@@ -4,7 +4,9 @@
 
 
 ## my skills 👀
-
+<span target="_blank"><img src="https://img.shields.io/badge/DASP-339933?style=flat-square&logo=dasp&logoColor=white"/></span>
+<a target="_blank"><img src="https://img.shields.io/badge/정보처리기사-1572B6?style=flat-square&logo=&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/linux master 2급-1572B6?style=flat-square&logo=linux&logoColor=white"/></a>
 
 <br/><br/>
 
