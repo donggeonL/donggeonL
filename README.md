@@ -12,7 +12,7 @@
 
 
 ## Learning... 🌱
-<span target="_blank"><img src="https://img.shields.io/badge/spring boot-339933?style=flat-square&logo=javascript&logoColor=white"/></span>
+<span target="_blank"><img src="https://img.shields.io/badge/spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/></span>
 
 <br/><br/><br/>
 ## About me 💞️
