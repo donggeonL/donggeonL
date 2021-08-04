@@ -4,10 +4,10 @@
 
 <br/><br/><br/>
 ## my skills 👀
-<span target="_blank"><img src="https://img.shields.io/badge/DASP-E34F26?style=flat-square&logo=dasp&logoColor=white"/>접수 예정</span>
-<p target="_blank"><img src="https://img.shields.io/badge/SQLD-E34F26?style=flat-square&logo=&logoColor=white"/>접수 예정</p>
-<p target="_blank"><img src="https://img.shields.io/badge/정보처리기사-E34F26?style=flat-square&logo=&logoColor=white"/>필기 합격</p>
-<p target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"/>1차 합격</p>
+<span target="_blank"><img src="https://img.shields.io/badge/DASP-E34F26?style=flat-square&logo=dasp&logoColor=white"/> <h4>접수 예정</h4></span>
+<p target="_blank"><img src="https://img.shields.io/badge/SQLD-E34F26?style=flat-square&logo=&logoColor=white"/> <h4>접수 예정</h4> </p>
+<p target="_blank"><img src="https://img.shields.io/badge/정보처리기사-E34F26?style=flat-square&logo=&logoColor=white"/> <h4>필기 합격</h4> </p>
+<p target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"/> <h4>1차 합격</h4> </p>
 
 
 <br/><br/><br/>
