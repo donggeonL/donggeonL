@@ -10,7 +10,7 @@
 <p target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"/> 2차 접수완료</p>
 
 
-<br/><br/><br/>
+<br/><br/>
 ## Learning...
 <span target="_blank"><img src="https://img.shields.io/badge/Spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/></span>
 <a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-339933?style=flat-square&logo=kubernetes&logoColor=white"/></a>
@@ -23,7 +23,7 @@
 
 
 
-<br/><br/><br/>
+<br/><br/>
 ## About me
 <p href="https://www.instagram.com/do.r.dong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></p>
 <p href="https://www.facebook.com/profile.php?id=100004021822010" target="_blank"><img src="https://img.shields.io/badge/Facebook-E4405F?style=flat-square&logo=facebook&logoColor=white"/></p>
