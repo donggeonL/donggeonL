@@ -18,6 +18,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-339933?style=flat-square&logo=docker&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=java&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-339933?style=flat-square&logo=c&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/OracleDB-339933?style=flat-square&logo=oracle&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MariaDB-339933?style=flat-square&logo=maria&logoColor=white"/></a>
 
 
 
