@@ -7,7 +7,7 @@
 <span target="_blank"><img src="https://img.shields.io/badge/DASP-E34F26?style=flat-square&logo=dasp&logoColor=white"/>  접수예정</span>
 <p target="_blank"><img src="https://img.shields.io/badge/SQLD-E34F26?style=flat-square&logo=&logoColor=white"/>  접수예정</p>
 <p target="_blank"><img src="https://img.shields.io/badge/정보처리기사-E34F26?style=flat-square&logo=&logoColor=white"/> 필기합격</p>
-<p target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"/> 1차합격</p>
+<p target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"/> 1차 합격 2차접수 완료</p>
 
 
 <br/><br/><br/>
