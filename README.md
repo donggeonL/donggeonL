@@ -20,6 +20,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/C-339933?style=flat-square&logo=c&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/OracleDB-339933?style=flat-square&logo=oracle&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MariaDB-339933?style=flat-square&logo=mariadb&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=python&logoColor=white"/></a>
 
 
 
