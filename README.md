@@ -4,8 +4,8 @@
 <h1> my License </h1>
  
 <span target="_blank"><img src="https://img.shields.io/badge/SQLD-E34F26?style=flat-square&logo=dasp&logoColor=white"/> 접수 완료 </span> 
-<p target="_blank"><img src="https://img.shields.io/badge/정보처리기사-E34F26?style=flat-square&logo=&logoColor=white"> 실기 접수 예정 </p>
-<p target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"> 접수 완료 </p>
+<p target="_blank"><img src="https://img.shields.io/badge/정보처리기사-E34F26?style=flat-square&logo=&logoColor=white"/> 실기 접수 예정 </p>
+<p target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"/> 접수 완료 </p>
  
 <h1> my License </h1>
 <span target="_blank"><img src="https://img.shields.io/badge/Spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/></span>
