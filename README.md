@@ -9,8 +9,8 @@
  
  </hr/>
 <h1> my License </h1>
-<span target="_blank"><img src="https://img.shields.io/badge/Spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/></span>
-<a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-339933?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<span target="_blank"><img src="https://img.shields.io/badge/Spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/>
+<a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-339933?style=flat-square&logo=kubernetes&logoColor=white"/>
 <a target="_blank"><img src="https://img.shields.io/badge/Linux-339933?style=flat-square&logo=linux&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-339933?style=flat-square&logo=docker&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=java&logoColor=white"/></a>
