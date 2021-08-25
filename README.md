@@ -1,5 +1,4 @@
 ## 👋 Hi there!
-
  [![donggeonL's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/><br/>
 ## my License
@@ -18,7 +17,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/MariaDB-339933?style=flat-square&logo=mariadb&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/AWS-339933?style=flat-square&logo=amazon&logoColor=white"/></a>
-<hr/><br/>
+<br/><br/>
 ## About me
 <a href="https://www.instagram.com/do.r.dong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100004021822010" target="_blank"><img src="https://img.shields.io/badge/Facebook-E4405F?style=flat-square&logo=facebook&logoColor=white"/></a>
