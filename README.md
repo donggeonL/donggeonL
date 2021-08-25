@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
- [![donggeonL's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+ [![donggeonL's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/><br/>
 ## my License
