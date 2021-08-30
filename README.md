@@ -20,7 +20,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/OracleDB-339933?style=flat-square&logo=oracle&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MariaDB-339933?style=flat-square&logo=mariadb&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=python&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/AWS-339933?style=flat-square&logo=#232F3E&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/AWS-339933?style=flat-square&logo=#AWS&logoColor=white"/></a>
 
 <h1> About me </h1>
 <a href="https://www.instagram.com/do.r.dong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
