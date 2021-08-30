@@ -2,8 +2,6 @@
  [![donggeonL's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula"></a>
-  
-  <a href="https://solved.ac/donggeonL"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=donggeonL"></a>
 
 
 <h1> my License </h1>
