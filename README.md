@@ -3,8 +3,6 @@
  
   [![donggeonL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
-
-
 <h1> my License </h1>
  
 <span target="_blank"><img src="https://img.shields.io/badge/SQLD-E34F26?style=flat-square&logo=dasp&logoColor=white"/> 9/5 일 시험 </span> 
