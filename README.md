@@ -11,7 +11,7 @@
 <p target="_blank"><img src="https://img.shields.io/badge/리눅스 마스터 2급-E34F26?style=flat-square&logo=linux&logoColor=white"/> 접수 완료 </p>
  
  </hr/>
-<h1> my License </h1>
+<h1> Learning </h1>
 <span target="_blank"><img src="https://img.shields.io/badge/Spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/>
 <a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-339933?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Linux-339933?style=flat-square&logo=linux&logoColor=white"/></a>
