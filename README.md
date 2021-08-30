@@ -31,3 +31,7 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donggeonL&repo=donggeonL" />
 </a>
+ 
+ <a href="https://github.com/donggeonL/donggeonL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donggeonL&repo=donggeonL" />
+</a>
