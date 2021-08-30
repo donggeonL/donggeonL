@@ -3,7 +3,7 @@
  
  <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula"></a>
-  <a href="https://solved.ac/thankowl777"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thankowl777"></a>
+  <a href="https://solved.ac/donggeonL"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=donggeonL"></a>
 </p>
 
 <h1> my License </h1>
