@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=C6BBB7&height=300&section=header&text=My%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7EFE9&height=300&section=header&text=👋%20Hi%20There&fontSize=90)
 
-## 👋 Hi there!
  [![donggeonL's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
  [![donggeonL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
