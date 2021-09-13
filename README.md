@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=B6E7B3&height=300&section=header&text=Lee%20DongGeon&fontSize=70&fontColor=B3B6E7)
+![header](https://capsule-render.vercel.app/api?type=slice&color=B6E7B3&height=300&section=header&text=Lee%20DongGeon&fontSize=70&fontColor=4974a5)
 
  [![donggeonL's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
