@@ -23,6 +23,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/AWS-339933?style=flat-square&logo=amazon&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/CSS-339933?style=flat-square&logo=css3&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/HTML-339933?style=flat-square&logo=html5&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-339933?style=flat-square&logo=js&logoColor=white"/></a>
 
 <h1> About me </h1>
 <a href="https://www.instagram.com/do.r.dong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
