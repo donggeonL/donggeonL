@@ -2,7 +2,8 @@
 
  [![donggeonL's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
- [![donggeonL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![donggeonL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?donggeonL=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
  
 <h1> my License </h1>
  
