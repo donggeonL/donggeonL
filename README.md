@@ -27,6 +27,7 @@
 
 <a target="_blank"><img src="https://img.shields.io/badge/OracleDB-339933?style=flat-square&logo=oracle&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MariaDB-339933?style=flat-square&logo=mariadb&logoColor=white"/></a>
+ <a target="_blank"><img src="https://img.shields.io/badge/MYSQL-339933?style=flat-square&logo=MYSQL&logoColor=white"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/CSS-339933?style=flat-square&logo=css3&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/HTML-339933?style=flat-square&logo=html5&logoColor=white"/></a>
