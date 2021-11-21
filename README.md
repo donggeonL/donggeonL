@@ -41,5 +41,5 @@
 <h1> My Project </h1>
  <a href="https://github.com/donggeonL/Backend-Project"> NMT Project </a><br>
  <a href="https://github.com/donggeonL/portfolio"> My Portfolio Project </a><br>
- <a href=""> 구름 Gallery Project ( 진행 중 ) </a><br>
+ <a href=""> 구름 Gallery Project ( 프로젝트 보완 중 ) </a><br>
  <a href=""> 유아를 위한 자바스크립트 게임 사이트 ( 진행 중 ) </a><br>
