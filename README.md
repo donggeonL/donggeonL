@@ -5,8 +5,6 @@
 [![donggeonL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 <h1> my License </h1>
- 
-<p target="_blank"><img src="https://img.shields.io/badge/정보처리기사-E34F26?style=flat-square&logo=&logoColor=white"/> 대기 </p>
 
  </hr/>
 <h1> Learning </h1>
