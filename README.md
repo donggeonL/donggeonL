@@ -16,7 +16,6 @@
 <a target="_blank"><img src="https://img.shields.io/badge/C-339933?style=flat-square&logo=c&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=python&logoColor=white"/></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-339933?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Linux-339933?style=flat-square&logo=linux&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-339933?style=flat-square&logo=docker&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/AWS-339933?style=flat-square&logo=amazon&logoColor=white"/></a>
@@ -39,5 +38,5 @@
 <h1> My Project </h1>
  <a href="https://github.com/donggeonL/Backend-Project"> NMT Project </a><br>
  <a href="https://github.com/donggeonL/portfolio"> My Portfolio Project </a><br>
- <a href=""> 구름 Gallery Project ( 프로젝트 보완 중 ) </a><br>
- <a href=""> 유아를 위한 자바스크립트 게임 사이트 ( 진행 중 ) </a><br>
+ <a href="#"> 구름 Gallery Project ( 프로젝트 보완 중 ) </a><br>
+ <a href="#"> 유아를 위한 자바스크립트 게임 사이트 ( 진행 중 ) </a><br>
