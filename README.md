@@ -13,7 +13,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=java&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/C-339933?style=flat-square&logo=c&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C++-339933?style=flat-square&logo=c&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=python&logoColor=white"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/Linux-339933?style=flat-square&logo=linux&logoColor=white"/></a>
