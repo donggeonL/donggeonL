@@ -34,7 +34,7 @@
  <a href="https://github.com/donggeonL/Backend-Project"> NMT Project </a><br>
  <a href="https://github.com/donggeonL/portfolio"> My Portfolio Project </a><br>
  <a href="https://github.com/donggeonL/EduKids_project"> 유아를 위한 자바스크립트 게임 사이트 </a><br>
- <a href="https://github.com/donggeonL/Gallery-Project"> 구름 Gallery Project </a> <p> 프로젝트 실패..</p><br>
+ <a href="https://github.com/donggeonL/Gallery-Project"> 구름 Gallery Project </a><br>
  <a href="https://github.com/donggeonL/PCR_Hospital_SpringBoot"> PCR 신속항원검사 가능 병원 조회 사이트 </a><br>
  <a href="https://github.com/donggeonL/SpringBoot_ChattingSite"> 온라인 채팅 사이트 </a><br>
 
