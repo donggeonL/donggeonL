@@ -4,7 +4,7 @@
  
 [![donggeonL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
- [![donggeonL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![donggeonL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  </hr/>
 <h1> Learning </h1>
