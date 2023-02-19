@@ -23,6 +23,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/HTML-339933?style=flat-square&logo=html5&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-339933?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/React-339933?style=flat-square&logo=react&logoColor=white"/></a>
+ <a target="_blank"><img src="https://img.shields.io/badge/Nexacro-339933?style=flat-square&logo=Nexacro&logoColor=white"/></a>
 
 
 <h1> About me </h1>
